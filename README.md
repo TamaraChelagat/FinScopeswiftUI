@@ -78,7 +78,7 @@ This project addresses these issues by developing a SwiftUI-based iOS applicatio
 ---
 FinScopeswiftUI demonstrates how mobile technology can promote financial inclusion by combining practical tools with financial education.
 This project highlights the potential of SwiftUI and Firebase in building innovative, user-centered financial applications.
----
+
 ## 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.

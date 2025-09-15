@@ -38,12 +38,12 @@ The app empowers users to manage savings, debts, and investments, while also pro
 - Xcode – IDE for development
 
 ## 📚 Academic Documentation
-1. Introduction
+### 1. Introduction
 
 Financial literacy is a critical need, particularly for young adults and low-income individuals who struggle with managing savings, debt, and investment decisions.
 This project provides a mobile application solution that empowers users with tools for financial tracking and education.
 
-2. Problem Statement
+### 2. Problem Statement
 
 Many individuals face challenges in managing personal finances due to:
 
@@ -53,7 +53,7 @@ Many individuals face challenges in managing personal finances due to:
 
 This project addresses these issues by developing a SwiftUI-based iOS application that integrates financial education, savings/debt tracking, and portfolio management.
 
-3. Objectives
+### 3. Objectives
 
 - Design a user-friendly financial literacy app using SwiftUI.
 - Implement savings and debt tracking tools (Snowball Method).
@@ -61,7 +61,7 @@ This project addresses these issues by developing a SwiftUI-based iOS applicatio
 - Provide access to podcasts on financial literacy.
 - Enable portfolio management of savings, SACCOs, REITs, MMFs, and shares.
 
-4. Tools and Technologies
+### 4. Tools and Technologies
 
 -Programming Language: Swift
 - Framework: SwiftUI
@@ -69,7 +69,7 @@ This project addresses these issues by developing a SwiftUI-based iOS applicatio
 - Platform: iOS 17+
 - IDE: Xcode 15
  
-5. Future Improvements
+### 5. Future Improvements
 
 - Expand financial advice using AI-driven recommendations.
 - Add budgeting and expense tracking features.

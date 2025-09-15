@@ -1,0 +1,48 @@
+[
+  {
+    "id": "91D1655B-8DFA-4E1C-851D-0E7FC6B40499",
+    "title": "Master Your Money Mindset",
+    "showName": "Money Talks",
+    "duration": "20 min",
+    "description": "In this episode, we dive deep into the psychology of money and how to overcome limiting beliefs that stop you from building wealth. Practical tips and inspiration included!",
+    "localFileName": "savings",
+    "emoji": "🧠"
+  },
+  {
+    "id": "2A72D8D0-8759-4FC1-83BA-3EC40DAF8B27",
+    "title": "How to Tackle Debt Snowball",
+    "showName": "Debt-Free Life",
+    "duration": "18 min",
+    "description": "Dave Ramsey shares how the debt snowball method works and why it’s a powerful tool for paying off debt quickly and staying motivated.",
+    "localFileName": "SnowBall",
+    "emoji": "❄️"
+  },
+  {
+    "id": "C708B97C-ED45-4AA1-9844-4D38DB235B2D",
+    "title": "Investing for Beginners",
+    "showName": "Smart Finance",
+    "duration": "36 min",
+    "description": "Learn how to start investing even with small amounts of money. We explain key concepts like stocks, mutual funds, and how to build your first portfolio.",
+    "localFileName": "savings",
+    "emoji": "📈"
+  },
+  {
+    "id": "9B4FF3CE-9E3C-4F31-9FE5-A8B0E1610E12",
+    "title": "Emergency Funds and savings",
+    "showName": "Debt-Free Life",
+    "duration": "18 min",
+    "description": "John Byork discusses how to set up your emergency funds to avoid financial crisis",
+    "localFileName": "SnowBall",
+    "emoji": "🚨"
+  },
+  {
+    "id": "F14247C2-2B60-4936-9617-2691F92CFB40",
+    "title": "How to Tackle Debt Snowball",
+    "showName": "Debt-Free Life",
+    "duration": "18 min",
+    "description": "Dave Ramsey shares how the debt snowball method works and why it’s a powerful tool for paying off debt quickly and staying motivated.",
+    "localFileName": "SnowBall",
+    "emoji": "❄️"
+  }
+]
+
